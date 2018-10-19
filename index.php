@@ -45,7 +45,7 @@
 				</div>
 				
 				<div class="wrap-input100 validate-input" data-validate = "Belum diisi">
-					<input id="tinggi" class="input100" type="text" name="tinggi" placeholder="Tinggi Anda (Cm)">
+					<input id="tinggi" class="input100" type="text" name="tinggi" placeholder="Tinggi Anda (m)">
 					<span class="focus-input100"></span>
 				</div>
 
